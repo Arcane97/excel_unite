@@ -1,0 +1,9 @@
+/_excel_unite_log.log
+/excel_unite.exe
+/excel_unite.spec
+/_check_yobit_airdrop.xlsx
+/yobit_airdrop*
+.idea/
+build/
+dist/
+
